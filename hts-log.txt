@@ -1,4 +1,4 @@
-HTTrack3.49-2+htsswf+htsjava launched on Sat, 15 Mar 2025 18:58:19 at http://congo-hope-initiatives.local/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 15 Mar 2025 19:04:01 at http://congo-hope-initiatives.local/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 (winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://congo-hope-initiatives.local/ -O1 "C:\My Web Sites\CHI" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
@@ -6,41 +6,41 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-18:58:36	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/wp-content/uploads/2024/02/Icon-5.png (from congo-hope-initiatives.local/)
-18:58:36	Warning: 	Moved Permanently for congo-hope-initiatives.local/contact
-18:58:36	Warning: 	File has moved from congo-hope-initiatives.local/contact to http://congo-hope-initiatives.local/contact/
-18:58:36	Error: 	Unable to save file C:/My Web Sites/CHI/congo-hope-initiatives.local/contact: Permission denied
-18:58:40	Warning: 	Moved Permanently for congo-hope-initiatives.local/blog
-18:58:40	Warning: 	File has moved from congo-hope-initiatives.local/blog to http://congo-hope-initiatives.local/blog/
-18:58:40	Error: 	Unable to save file C:/My Web Sites/CHI/congo-hope-initiatives.local/blog: Permission denied
-18:58:45	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/img/vimeo-play.png (from congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/lightgallery.min.css?ver=1.7.1011)
-18:58:45	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/img/video-play.png (from congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/lightgallery.min.css?ver=1.7.1011)
-18:58:45	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/img/youtube-play.png (from congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/lightgallery.min.css?ver=1.7.1011)
-18:58:47	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/wp-json/wp/v2/pages/2200 (from congo-hope-initiatives.local/about/)
-18:58:47	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/?p=2200 (from congo-hope-initiatives.local/about/)
-18:58:47	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcongo-hope-initiatives.local%2Fabout%2F (from congo-hope-initiatives.local/about/)
-18:58:57	Warning: 	Moved Permanently for congo-hope-initiatives.local/?p=25
-18:58:57	Warning: 	File has moved from congo-hope-initiatives.local/?p=25 to http://congo-hope-initiatives.local/contact/
-18:58:58	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcongo-hope-initiatives.local%2Fcontact%2F (from congo-hope-initiatives.local/contact/)
-18:58:58	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/wp-content/uploads/2025/02/man-with-phone-1024x682.webp (from congo-hope-initiatives.local/contact/)
-18:58:59	Warning: 	Moved Permanently for congo-hope-initiatives.local/?p=313
-18:58:59	Warning: 	File has moved from congo-hope-initiatives.local/?p=313 to http://congo-hope-initiatives.local/tiny-scientists-on-the-loose-preschool-science-wonders/
-18:59:14	Warning: 	Moved Permanently for congo-hope-initiatives.local/?p=312
-18:59:14	Warning: 	File has moved from congo-hope-initiatives.local/?p=312 to http://congo-hope-initiatives.local/abcs-and-123s-journeying-through-preschool-with-joy/
-18:59:14	Warning: 	Moved Permanently for congo-hope-initiatives.local/?p=311
-18:59:14	Warning: 	File has moved from congo-hope-initiatives.local/?p=311 to http://congo-hope-initiatives.local/playful-learning-where-every-day-is-a-new-discovery/
-18:59:14	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/GET (from congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/js/lib/isotope/isotope.min.js?ver=3.0.8)
-18:59:14	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/-negative.svg (from congo-hope-initiatives.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.6)
-18:59:14	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/OPR/ (from congo-hope-initiatives.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.6)
-18:59:14	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/window.location.href (from congo-hope-initiatives.local/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.27.4)
-18:59:14	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/r (from congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.7.1011)
-18:59:14	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/img/video-play.png (from congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/lightgallery.min.css?ver=1.7.1011)
-18:59:14	Warning: 	Moved Permanently for congo-hope-initiatives.local/?p=2200
-18:59:14	Warning: 	File has moved from congo-hope-initiatives.local/?p=2200 to http://congo-hope-initiatives.local/about/
-18:59:14	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/about (from congo-hope-initiatives.local/category/adventures/)
-18:59:14	Warning: 	Moved Permanently for congo-hope-initiatives.local/about
-18:59:14	Warning: 	File has moved from congo-hope-initiatives.local/about to http://congo-hope-initiatives.local/about/
-18:59:14	Error: 	Unable to save file C:/My Web Sites/CHI/congo-hope-initiatives.local/about: Permission denied
+19:04:10	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/wp-json/wp/v2/pages/2198 (from congo-hope-initiatives.local/)
+19:04:10	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/xmlrpc.php?rsd (from congo-hope-initiatives.local/)
+19:04:10	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcongo-hope-initiatives.local%2F (from congo-hope-initiatives.local/)
+19:04:14	Warning: 	Moved Permanently for congo-hope-initiatives.local/about
+19:04:14	Warning: 	File has moved from congo-hope-initiatives.local/about to http://congo-hope-initiatives.local/about/
+19:04:14	Error: 	Unable to save file C:/My Web Sites/CHI/congo-hope-initiatives.local/about: Permission denied
+19:04:14	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/wp-content/uploads/2024/02/Icon-5.png (from congo-hope-initiatives.local/)
+19:04:14	Warning: 	Moved Permanently for congo-hope-initiatives.local/contact
+19:04:14	Warning: 	File has moved from congo-hope-initiatives.local/contact to http://congo-hope-initiatives.local/contact/
+19:04:14	Error: 	Unable to save file C:/My Web Sites/CHI/congo-hope-initiatives.local/contact: Permission denied
+19:04:19	Warning: 	Moved Permanently for congo-hope-initiatives.local/blog
+19:04:19	Warning: 	File has moved from congo-hope-initiatives.local/blog to http://congo-hope-initiatives.local/blog/
+19:04:19	Error: 	Unable to save file C:/My Web Sites/CHI/congo-hope-initiatives.local/blog: Permission denied
+19:04:19	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/js/lib/perfect-scrollbar/perfect-scrollbar.min.js?ver=0.4.9 (from congo-hope-initiatives.local/)
+19:04:23	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3 (from congo-hope-initiatives.local/)
+19:04:24	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/img/vimeo-play.png (from congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/lightgallery.min.css?ver=1.7.1011)
+19:04:24	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/img/video-play.png (from congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/lightgallery.min.css?ver=1.7.1011)
+19:04:24	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/img/youtube-play.png (from congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/lightgallery.min.css?ver=1.7.1011)
+19:04:26	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/xmlrpc.php?rsd (from congo-hope-initiatives.local/)
+19:04:27	Warning: 	Moved Permanently for congo-hope-initiatives.local/?p=2200
+19:04:27	Warning: 	File has moved from congo-hope-initiatives.local/?p=2200 to http://congo-hope-initiatives.local/about/
+19:04:33	Warning: 	Retry after error -4 (No data (connection closed)) at link congo-hope-initiatives.local/category/stories/ (from congo-hope-initiatives.local/blog/)
+19:04:37	Warning: 	Moved Permanently for congo-hope-initiatives.local/?p=25
+19:04:37	Warning: 	File has moved from congo-hope-initiatives.local/?p=25 to http://congo-hope-initiatives.local/contact/
+19:04:38	Warning: 	Moved Permanently for congo-hope-initiatives.local/?p=313
+19:04:38	Warning: 	File has moved from congo-hope-initiatives.local/?p=313 to http://congo-hope-initiatives.local/tiny-scientists-on-the-loose-preschool-science-wonders/
+19:04:54	Warning: 	Moved Permanently for congo-hope-initiatives.local/?p=312
+19:04:54	Warning: 	File has moved from congo-hope-initiatives.local/?p=312 to http://congo-hope-initiatives.local/abcs-and-123s-journeying-through-preschool-with-joy/
+19:04:54	Warning: 	Moved Permanently for congo-hope-initiatives.local/?p=311
+19:04:54	Warning: 	File has moved from congo-hope-initiatives.local/?p=311 to http://congo-hope-initiatives.local/playful-learning-where-every-day-is-a-new-discovery/
+19:04:54	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/GET (from congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/js/lib/isotope/isotope.min.js?ver=3.0.8)
+19:04:54	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/-negative.svg (from congo-hope-initiatives.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.6)
+19:04:54	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/OPR/ (from congo-hope-initiatives.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.6)
+19:04:54	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/window.location.href (from congo-hope-initiatives.local/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.27.4)
+19:04:54	Error: 	"Not Found" (404) at link congo-hope-initiatives.local/r (from congo-hope-initiatives.local/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.7.1011)
 
-HTTrack Website Copier/3.49-2 mirror complete in 55 seconds : 213 links scanned, 188 files written (10640085 bytes overall), 84 files updated [741170 bytes received at 13475 bytes/sec], 4112008 bytes transferred using HTTP compression in 91 files, ratio 15%, 13.0 requests per connection
+HTTrack Website Copier/3.49-2 mirror complete in 53 seconds : 213 links scanned, 188 files written (10640025 bytes overall), 66 files updated [687885 bytes received at 12978 bytes/sec], 3642409 bytes transferred using HTTP compression in 73 files, ratio 16%, 12.5 requests per connection
 (11 errors, 24 warnings, 0 messages)

@@ -1,5 +1,5 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-.demosites.royal-elementor-addons.com	TRUE	/	FALSE	1999999999	__cf_bm	q6ENRdVeg9SNeZzR_SOOiV5PLW9Sw.vLsS.ez1dygRg-1742079540-1.0.1.1-8bTRF.NWGBMbmIIQNiDRNJkvE0XL38NyUMkI3S8UYZVbKxKk4Pr3lnZT7zcVP8EH.Tp0vV1DId135EdC4ESxbqdJkjXwBb2Sl5JDq.EFdt4
+.demosites.royal-elementor-addons.com	TRUE	/	FALSE	1999999999	__cf_bm	DTn9KgR9pfhxxbV_0OWFaM6qIe4HjPNxLufrsz_QS74-1742079880-1.0.1.1-E5_GOUD.rpf1p9W1gZHnoGcpPqa4MqDQEQEA.LvFPTVDfnIq0s5bmjKR24_IuP7S2BgjqGh0.2nPFvTCyTPFnIwAymVjcQufEgRa9LGMk5I
 demosites.royal-elementor-addons.com	TRUE	/	FALSE	1999999999	SameSite	None
 
